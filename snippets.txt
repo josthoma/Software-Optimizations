@@ -1,0 +1,5 @@
+
+    if num in cache:
+        time.sleep(1)
+        print('Found in Cache')
+        return cache[num]
